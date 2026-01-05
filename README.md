@@ -9,7 +9,7 @@
 >
 >  ⚠️ 2014-2024年机考均为手改，2025年调整为机改,考试时间2h
 
-[![Star History Chart](https://api.star-history.com/svg?repos=你的用户名/仓库名&type=Date)](https://star-history.com/#XUAHW/WHU-CS-KaoYan-Machine-Test&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=XUAHW/WHU-CS-KaoYan-Machine-Test&type=date&legend=bottom-right)](https://www.star-history.com/#XUAHW/WHU-CS-KaoYan-Machine-Test&type=date&legend=bottom-right)
 
 ## 📅 2014-2025年真题
 | 编号 | 题目名称 | 题目类型 | 难度 |
